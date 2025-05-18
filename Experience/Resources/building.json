@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Green Office Park 1",
+        "latitude": -6.3018849,
+        "longitude": 106.6500193
+        
+    },
+    {
+        "id": 6,
+        "name": "Green Office Park 6",
+        "latitude": -6.3032293,
+        "longitude": 106.6531313
+        
+    },
+    {
+        "id": 9,
+        "name": "Green Office Park 9",
+        "latitude": -6.3023062,
+        "longitude": 106.6522011
+    },
+    {
+        "id": 4,
+        "name": "Graha Unilever",
+        "latitude": -6.3007555,
+        "longitude": 106.649986
+        
+    },
+    {
+        "id": 2,
+        "name": "The Breeze",
+        "latitude": -6.3012246,
+        "longitude": 106.6532949
+    },
+    {
+        "id": 5,
+        "name": "GOP 5 Car Park",
+        "latitude": -6.3027692,
+        "longitude": 106.6509386
+    },
+    {
+        "id": 7,
+        "name": "Marketing Office",
+        "latitude": -6.3006173,
+        "longitude": 106.6521688
+    }
+]

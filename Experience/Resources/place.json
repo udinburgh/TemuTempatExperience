@@ -1,0 +1,564 @@
+[
+    {
+        "id": 2523,
+        "name": "Jalarasa",
+        "desc": "Jalarasa. Food & Beverages. Labuhan Rasa Nusantara. Serving Indonesian cuisine with flavors from the sea, using high-quality and fresh ingredients that make your palate dance.",
+        "isFavorite": false,
+        "address": "The Breeze BSD City Blok L No.68A-68B",
+        "tags": ["Food", "Indonesian"],
+        "imageName": "jalarasa",
+        "buildingID": 2
+    },
+    {
+        "id": 2524,
+        "name": "Ranch Market",
+        "desc": "Ranch Market is a supermarket offering high-quality and unique products, focusing on healthy lifestyle products like organic and gluten-free items, catering to high-end and middle-high customers.",
+        "isFavorite": false,
+        "address": "The Breeze, Pavilion 5 L.79",
+        "tags": ["Shopping", "Supermarket"],
+        "imageName": "ranchmarket",
+        "buildingID": 2
+    },
+    {
+        "id": 2525,
+        "name": "Saigon Delight",
+        "desc": "The spacious atmosphere, tropical fresh décor, and authentic Vietnamese menu make Saigon Delight perfect for dining with your loved ones!",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Food", "Vietnamese"],
+        "imageName": "saigondelight",
+        "buildingID": 2
+    },
+    {
+        "id": 2526,
+        "name": "Optik Melawai",
+        "desc": "Optik Melawai offers a variety of exclusive optical products with a trusted reputation, targeting the middle to high-end market with high-quality products.",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Shopping", "Optical"],
+        "imageName": "optikmelawai",
+        "buildingID": 2
+    },
+    {
+        "id": 2401,
+        "name": "Lawson",
+        "desc": "Lawson, Inc. is a Japanese convenience store franchise chain. Lawson offers a wide variety of snacks and drinks to choose from. It’s well-known for its oden, choux, tteokbokki, and onigiri. A while back, their snack tray combo—a mix of drinks and light bites—went pretty viral too. Lawson also has some cool deals to help you shop smarter; check out their official social media for more details.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung GOP 6",
+        "tags": ["Food", "Drink"],
+        "imageName": "lawson",
+        "buildingID": 6
+    },
+    {
+        "id": 2301,
+        "name": "FamilyMart",
+        "desc": "FamilyMart Company, Ltd. adalah rantai waralaba toko serba ada dari Jepang. Toko FamilyMart menyediakan barang-barang khas toko serba ada Jepang, seperti makanan dan minuman ringan, ayam goreng, onigiri/omusubi (nasi kepal) dan masih banyak lagi. Menu rekomendasi untuk FamilyMart adalah Kopi Susu Keluarga (KSK), oden dan tteokbokki. FamilyMart juga sering menawarkan promo-promo menarik seperti diskon khusus pada jam-jam tertentu sehingga dapat belanja lebih hemat.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung Traveloka Campus",
+        "tags": ["Food", "Drink"],
+        "imageName": "familymart",
+        "buildingID": 1
+    },
+    {
+        "id": 6301,
+        "name": "Mushola GOP 1",
+        "desc": "Tempat ibadah umat muslim dan muslimah. Mushola disini luas, dingin dan bersih sehingga nyaman dalam melakukan ibadah.",
+        "isFavorite": false,
+        "address": "Lt. B2 Gedung Traveloka Campus",
+        "tags": ["Mushola"],
+        "imageName": "mushola",
+        "buildingID": 1
+    },
+    {
+        "id": 5301,
+        "name": "Toilet GOP 1",
+        "desc": "Tempat untuk melakukan aktivitas terkait sanitasi. Toilet disini tentunya bersih dan wangi.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung Traveloka Campus/GOP1, dekat FamilyMart",
+        "tags": ["Toilet"],
+        "imageName": "toilet",
+        "buildingID": 1
+    },
+    {
+        "id": 2302,
+        "name": "Kantin Dapur Kencana",
+        "desc": "Kantin Dapur Kencana adalah sebuah kantin yang terletak di Basement 1, Gedung Green Office Park 1. Kantin ini menawarkan suasana nyaman dan praktis untuk menikmati berbagai pilihan makanan dan minuman yang lezat dengan harga terjangkau. Menu yang disajikan bervariasi, mencakup hidangan khas Indonesia seperti nasi goreng, soto, dan aneka lauk tradisional, serta opsi makanan ringan dan minuman segar untuk memenuhi selera beragam pelanggan.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung Traveloka Campus",
+        "tags": ["Food", "Drink"],
+        "imageName": "dapurkencana",
+        "buildingID": 1
+    },
+    {
+        "id": 2525,
+        "name": "Saigon Delight",
+        "desc": "The spacious atmosphere, tropical fresh décor, and authentic Vietnamese menu make Saigon Delight perfect for dining with your loved ones!",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Food", "Vietnamese"],
+        "imageName": "saigondelight",
+        "buildingID": 2
+    },
+    {
+        "id": 2526,
+        "name": "Optik Melawai",
+        "desc": "Optik Melawai offers a variety of exclusive optical products with a trusted reputation, targeting the middle to high-end market with high-quality products.",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Shopping", "Optical"],
+        "imageName": "optikmelawai",
+        "buildingID": 2
+    },
+    {
+        "id": 2527,
+        "name": "Gubug Makan Mang Engking",
+        "desc": "The menu features dishes like fried gurame with sambal, stir-fried water spinach, honey grilled prawns, honey grilled gurame, and many more.",
+        "isFavorite": false,
+        "address": "The Breeze BSD City, Unit L67 A-C",
+        "tags": ["Food", "Indonesian"],
+        "imageName": "gubugmakanmangengking",
+        "buildingID": 2
+    },
+    {
+        "id": 2528,
+        "name": "Slice of Heaven",
+        "desc": "Slice of Heaven at The Breeze BSD City is a Japanese restaurant and café serving fusion food, located inside Spincity Bowling Alley.",
+        "isFavorite": false,
+        "address": "The Breeze BSD City L 60 - 61",
+        "tags": ["Food", "Japanese"],
+        "imageName": "sliceofheaven",
+        "buildingID": 2
+    },
+    {
+        "id": 2529,
+        "name": "Spincity",
+        "desc": "Spincity Bowling Alley is a bowling entertainment center where you can have fun playing bowling and enjoy casual dining with friends and family.",
+        "isFavorite": false,
+        "address": "The Breeze BSD City",
+        "tags": ["Entertainment", "Bowling"],
+        "imageName": "spincity",
+        "buildingID": 2
+    },
+    {
+        "id": 2530,
+        "name": "Gion",
+        "desc": "Sushi and Japanese dishes beautifully served in a spacious area with large windows and a vaulted ceiling.",
+        "isFavorite": false,
+        "address": "The Breeze #L-59",
+        "tags": ["Food", "Japanese"],
+        "imageName": "gion",
+        "buildingID": 2
+    },
+    {
+        "id": 2529,
+        "name": "Subway",
+        "desc": "A casual counter-serve chain for build-your-own sandwiches and salads, with plenty of healthy options.",
+        "isFavorite": false,
+        "address": "The Breeze BSD City Lake Level L57A",
+        "tags": ["Food", "Fast Food"],
+        "imageName": "subway",
+        "buildingID": 2
+    },
+    {
+        "id": 2530,
+        "name": "RELX",
+        "desc": "RELX is an electronic cigarette brand offering a range of vape devices and pods. Official RELX products are available at RELX Indonesia stores.",
+        "isFavorite": true,
+        "address": "The Breeze",
+        "tags": ["Shopping", "Lifestyle"],
+        "imageName": "relx",
+        "buildingID": 2
+    },
+    {
+        "id": 2531,
+        "name": "Boots Beauty",
+        "desc": "Boots Indonesia is a health and beauty store located in The Breeze BSD City, offering skincare, body care, and medicine products.",
+        "isFavorite": true,
+        "address": "The Breeze, L63A - Lake Level",
+        "tags": ["Shopping", "Beauty"],
+        "imageName": "bootsbeauty",
+        "buildingID": 2
+    },
+    {
+        "id": 2534,
+        "name": "Happy Lemon",
+        "desc": "Happy Lemon is a beverage chain located at The Breeze in BSD, Indonesia. It serves tea, smoothies, slushies, and more.",
+        "isFavorite": false,
+        "address": "The Breeze, Lantai Ground",
+        "tags": ["Beverage", "Tea"],
+        "imageName": "happylemon",
+        "buildingID": 2
+    },
+    {
+        "id": 2535,
+        "name": "Starbucks",
+        "desc": "Franchise kedai kopi dari Seattle yang terkenal dengan teknik penyeduhan kopinya yang khas, camilan & Wi-Fi.",
+        "isFavorite": false,
+        "address": "The Breeze, Batik 3 L. 29",
+        "tags": ["Beverage", "Coffee"],
+        "imageName": "starbucks",
+        "buildingID": 2
+    },
+    {
+        "id": 2536,
+        "name": "J.CO",
+        "desc": "J.CO Donuts & Coffee is an Indonesian restaurant chain that serves donuts, coffee, and frozen yogurt.",
+        "isFavorite": false,
+        "address": "The Breeze, Batik 4 L. 38",
+        "tags": ["Food", "Donuts"],
+        "imageName": "jco",
+        "buildingID": 2
+    },
+    {
+        "id": 2537,
+        "name": "Sour Sally Frozen Yogurt",
+        "desc": "Sour Sally Non-Fat Frozen Yogurt or simply known as “Fro-yo” was the first of its kind in Indonesia back in 2008.",
+        "isFavorite": false,
+        "address": "The Breeze, Unit IU 10 Island",
+        "tags": ["Dessert", "Frozen Yogurt"],
+        "imageName": "soursally",
+        "buildingID": 2
+    },
+    {
+        "id": 2538,
+        "name": "Food Court",
+        "desc": "The Breeze BSD City in Tangerang, Banten, Indonesia is a shopping mall with many restaurants, including a food court.",
+        "isFavorite": false,
+        "address": "The Breeze BSD City",
+        "tags": ["Food", "Food Court"],
+        "imageName": "foodcourt",
+        "buildingID": 2
+    },
+    {
+        "id": 2516,
+        "name": "Sushi Tei",
+        "desc": "Sushi Tei is a Japanese restaurant chain that serves sushi, sashimi, and other Japanese dishes. It offers a modern dining experience with an open kitchen concept.",
+        "isFavorite": false,
+        "address": "The Breeze, Ground Floor",
+        "tags": ["Food", "Japanese"],
+        "imageName": "sushitei",
+        "buildingID": 2
+    },
+    {
+        "id": 2517,
+        "name": "Brewerkz",
+        "desc": "Brewerkz BSD is a place where you can enjoy great food in a semi-outdoor setting, with billiards available next door.",
+        "isFavorite": false,
+        "address": "The Breeze, Ground Floor",
+        "tags": ["Food",],
+        "imageName": "brewerkz",
+        "buildingID": 2
+    },
+    {
+        "id": 2518,
+        "name": "Wee Nam Kee",
+        "desc": "Wee Nam Kee is a Singaporean restaurant chain serving Hainanese chicken rice and other Asian dishes, with a casual dining atmosphere and Peranakan-inspired interior.",
+        "isFavorite": false,
+        "address": "The Breeze, Ground Floor",
+        "tags": ["Food", "Singaporean"],
+        "imageName": "weenamkee",
+        "buildingID": 2
+    },
+    {
+        "id": 2519,
+        "name": "Villa Capri",
+        "desc": "Villa Capri invites you to savor the authentic flavors of Italy in a warm and inviting atmosphere. Indulge in a delightful culinary journey.",
+        "isFavorite": false,
+        "address": "The Breeze BSD, Unit L No. 8",
+        "tags": ["Food", "Italian"],
+        "imageName": "villacapri",
+        "buildingID": 2
+    },
+    {
+        "id": 2521,
+        "name": "Kenangan Signature",
+        "desc": "Kenangan Signature is the premium version of Kopi Kenangan, offering a more luxurious coffee experience with an exclusive look and packaging.",
+        "isFavorite": false,
+        "address": "The Breeze, Unit L.26",
+        "tags": ["Coffee"],
+        "imageName": "kenangansignature",
+        "buildingID": 2
+    },
+    {
+        "id": 2522,
+        "name": "Fruity",
+        "desc": "Fruity Indonesia is one of the pioneers in the juice retail business in Bandung, established in 1999.",
+        "isFavorite": false,
+        "address": "The Breeze, Blok IU 12C",
+        "tags": ["Food", "Juice"],
+        "imageName": "fruity",
+        "buildingID": 2
+    },
+    {
+        "id": 2524,
+        "name": "Chatime",
+        "desc": "Chatime is a brewed tea beverage provider from Taiwan offering more than 50 flavor variants. In Indonesia, Chatime has been part of the Kawan Lama Group since 2011.",
+        "isFavorite": false,
+        "address": "The Breeze, Batik 1 L.10A",
+        "tags": ["Drink", "Taiwanese"],
+        "imageName": "chatime",
+        "buildingID": 2
+    },
+    {
+        "id": 2532,
+        "name": "Re-Juve",
+        "desc": "Re.juve adalah merek minuman kesehatan yang menjual jus cold-pressed segar dan alami.",
+        "isFavorite": false,
+        "address": "The Breeze, Island Unit IU.19",
+        "tags": ["Beverage", "Healthy"],
+        "imageName": "rejuve",
+        "buildingID": 2
+    },
+    {
+        "id": 2533,
+        "name": "Kitchenette",
+        "desc": "The cozy and inviting eatery where you can enjoy the comfort of home-style cooking in a casual and relaxed atmosphere.",
+        "isFavorite": false,
+        "address": "L.30 The Breeze BSD City",
+        "tags": ["Food", "Western"],
+        "imageName": "kitchenette",
+        "buildingID": 2
+    },
+    {
+        "id": 2507,
+        "name": "Paul Le Cafe",
+        "desc": "Paul Le Café serves French-style patisserie and a variety of coffee options.",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Food"],
+        "imageName": "paullecafe",
+        "buildingID": 2
+    },
+    {
+        "id": 2508,
+        "name": "Guardian",
+        "desc": "Guardian is a leading modern retail brand in Southeast Asia in health and beauty, offering a wide range of quality products and the best services for its customers.",
+        "isFavorite": false,
+        "address": "The Breeze L. 56M",
+        "tags": ["Pharmacy", "Outdoor"],
+        "imageName": "guardian",
+        "buildingID": 2
+    },
+    {
+        "id": 2509,
+        "name": "Leko",
+        "desc": "Warung Leko BSD is a restaurant specializing in 'Iga Penyet' (smashed beef ribs) located in BSD. Beverage prices start from around IDR 50,000 and food prices start from around IDR 15,000.",
+        "isFavorite": false,
+        "address": "The Breeze, Ground Floor",
+        "tags": ["Food"],
+        "imageName": "leko",
+        "buildingID": 2
+    },
+    {
+        "id": 2510,
+        "name": "Ikkudo Ichi",
+        "desc": "Ikkudo Ichi serves authentic Japanese ramen that has been adapted to Indonesian tastes since 2012.",
+        "isFavorite": false,
+        "address": "The Breeze, Ground Floor",
+        "tags": ["Food", "Ramen"],
+        "imageName": "ikkudoichi",
+        "buildingID": 2
+    },
+    {
+        "id": 2511,
+        "name": "Q Billiard",
+        "desc": "Q Billiard is the first and only billiard center in Indonesia equipped with Brunswick tables, aimed at providing Grade A facilities.",
+        "isFavorite": false,
+        "address": "The Breeze, No. Kav 07",
+        "tags": ["Entertainment", "Billiard"],
+        "imageName": "qbilliard",
+        "buildingID": 2
+    },
+    {
+        "id": 2512,
+        "name": "Toby’s Estate",
+        "desc": "Toby’s Estate at The Breeze BSD is a cozy hangout spot serving specialty coffee, brunch, and an all-day dining menu.",
+        "isFavorite": false,
+        "address": "The Breeze, West Lobby",
+        "tags": ["Coffee", "Brunch"],
+        "imageName": "tobysestate",
+        "buildingID": 2
+    },
+    {
+        "id": 2513,
+        "name": "Katsukita",
+        "desc": "Katsukita offers a variety of delicious Japanese dishes including miso soup, ramen, chicken katsu, and more.",
+        "isFavorite": false,
+        "address": "The Breeze, Ground Floor L-11",
+        "tags": ["Food", "Japanese"],
+        "imageName": "katsukita",
+        "buildingID": 2
+    },
+    {
+        "id": 2514,
+        "name": "HanGuksu Seoul In A Bowl",
+        "desc": "HanGuksu is a Korean restaurant chain that specializes in noodle dishes. The name combines the Korean words 'hanguk' (Korea) and 'guksu' (noodles).",
+        "isFavorite": false,
+        "address": "The Breeze BSD City, L12",
+        "tags": ["Food", "Korean"],
+        "imageName": "hanguksu",
+        "buildingID": 2
+    },
+    {
+        "id": 2515,
+        "name": "The People’s Cafe",
+        "desc": "The People’s Cafe in BSD, South Tangerang is a cafe that offers a variety of street foods from around the world. It's a great spot to hang out with friends or spend quality time with family.",
+        "isFavorite": false,
+        "address": "The Breeze, L15",
+        "tags": ["Cafe"],
+        "imageName": "thepeoplescafe",
+        "buildingID": 2
+    },
+    {
+        "id": 8103,
+        "name": "WOLV",
+        "desc": "WOLV Barbershop adalah tempat cukur rambut yang eksklusif untuk pria. Menyediakan layanan barber profesional dengan sistem booking melalui WhatsApp.",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Retail"],
+        "imageName": "wolv",
+        "buildingID": 2
+    },
+    {
+        "id": 2104,
+        "name": "N.O.B Cafe @ Pattiserie",
+        "desc": "NOB Cafe menjadi pilihan yang tepat untuk pecinta pastry, khususnya Croissant. Memiliki banyak spot foto cantik dan aesthetic yang cocok untuk media sosial.",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Food", "Drink"],
+        "imageName": "nobcafe",
+        "buildingID": 2
+    },
+    {
+        "id": 2105,
+        "name": "Burgreens Eatery & Market",
+        "desc": "Burgreens is a manifestation of a conscious eating movement that believes that what we eat directly impacts our health, animal & farmers’ welfare, and environmental sustainability. Since the very beginning, our mission is to make healthy, ethical, and sustainable food as delicious, fun, convenient, and accessible as junk food - while empowering local farmers and women through a responsible supply chain!",
+        "isFavorite": false,
+        "address": "The Breeze",
+        "tags": ["Food"],
+        "imageName": "burgreens",
+        "buildingID": 2
+    },
+    {
+        "id": 2106,
+        "name": "TAMPER",
+        "desc": "The primary goal with tamping coffee is to compact the bed of coffee and create a flat and even surface, for the pressurised water to flow through, evenly extracting flavour. The way you stand, the way you hold the portafilter and the tamper, will all affect the quality of your tamp.",
+        "isFavorite": false,
+        "address": "The Breeze, Bsd City, Blok IU 11",
+        "tags": ["Drink"],
+        "imageName": "tamper",
+        "buildingID": 2
+    },
+    {
+        "id": 2501,
+        "name": "HONU",
+        "desc": "Honu's menu is a modern take on the classic Hawaiian dish and traditional Japanese tea to create an accessible and wholesome dining ritual.",
+        "isFavorite": false,
+        "address": "The Breeze BSD (L-25)",
+        "tags": ["Food"],
+        "imageName": "honu",
+        "buildingID": 2
+    },
+    {
+        "id": 2502,
+        "name": "The Pancake Co. by DORE",
+        "desc": "A modern Japanese café specializing in the fluffiest soufflé pancakes for you to indulge with your family and friends!",
+        "isFavorite": false,
+        "address": "The Breeze BSD City - Unit L.23.",
+        "tags": ["Food"],
+        "imageName": "thepancakeco",
+        "buildingID": 2
+    },
+    {
+        "id": 2504,
+        "name": "Fore",
+        "desc": "Established in 2018, Fore Coffee is a passionate coffee startup aiming to brew the best specialty coffee for our customers. As our name derived from the word forest, we aim to grow fast, strong, tall and bring life to our surroundings. We want our existence to increase coffee quality for our community. Leveraging network and experience, we are using the latest tech for our tools and bean blend. Directly from the selected farmer, high-quality beans are processed and roasted to perfection by ourselves then passed on to our skilled barista, excitedly preparing the cup of happiness to be served to you especially.",
+        "isFavorite": false,
+        "address": "The Breeze, IU & Booth IU. 05",
+        "tags": ["Drink"],
+        "imageName": "fore",
+        "buildingID": 2
+    },
+    {
+        "id": 2505,
+        "name": "Hachi Grill",
+        "desc": "Hachi Grill The Breeze is the ultimate place to delight the quality of meat and fresh hydroponic vegetables at the best price, with special signature choice of soups and sauce to elevate the next level taste of yakiniku and shabu-shabu. We provide dedicated smokeless roaster and personal induction stove for you to enjoy your own space and your favorite way to cook. Please rejoice in our various delicious side dishes and customize your own dessert in the simple minimalist appearance and industrial atmosphere. We cherish to spend your relaxing and joyful moment with cozy space at Hachi Grill The Breeze.",
+        "isFavorite": false,
+        "address": "The Breeze, Unit L27",
+        "tags": ["Food"],
+        "imageName": "hachigrill",
+        "buildingID": 2
+    },
+    {
+        "id": 2506,
+        "name": "XXI",
+        "desc": "Cinema The Breeze XXI is one of the cinemas under the Cinema XXI network. Committed to providing the best quality entertainment at affordable prices, Cinema XXI is ready to become a second home for enjoying quality movies and snacks.",
+        "isFavorite": false,
+        "address": "The Breeze, Pavillion L. 80",
+        "tags": ["Entertainment"],
+        "imageName": "xxi",
+        "buildingID": 2
+    },
+    {
+        "id": 2401,
+        "name": "Lawson",
+        "desc": "Lawson, Inc. is a Japanese convenience store franchise chain. Lawson offers a wide variety of snacks and drinks to choose from. It’s well-known for its oden, choux, tteokbokki, and onigiri. A while back, their snack tray combo—a mix of drinks and light bites—went pretty viral too. Lawson also has some cool deals to help you shop smarter; check out their official social media for more details.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung GOP 6",
+        "tags": ["Food", "Drink"],
+        "imageName": "lawson",
+        "buildingID": 6
+    },
+    {
+        "id": 2402,
+        "name": "Kantin GOP 6",
+        "desc": "The GOP 6 Canteen, located in the basement of Green Office Park 6 (now known as MyRepublic Plaza) in BSD City, is a cozy and affordable dining spot for employees and visitors. It offers a variety of tasty options, from classic Indonesian dishes to light snacks, with prices that suit different budgets.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung GOP 6",
+        "tags": ["Food", "Drink"],
+        "imageName": "kantingop6",
+        "buildingID": 6
+    },
+    {
+        "id": 5401,
+        "name": "Toilet GOP 6",
+        "desc": "Place for sanitation-related activities, the toilet here is, of course, clean and fresh-smelling.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung GOP 6",
+        "tags": ["Toilet"],
+        "imageName": "toilet",
+        "buildingID": 6
+    },
+    {
+        "id": 6401,
+        "name": "Mushola GOP 6",
+        "desc": "A place for praying activities for Muslim men and women.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung GOP 6",
+        "tags": ["Mushola"],
+        "imageName": "mushola",
+        "buildingID": 6
+    },
+    {
+        "id": 2201,
+        "name": "Kantin GOP 9 (Green Eatery)",
+        "desc": "The GOP 9 Canteen, better known as Green Eatery, is located in the basement of Green Office Park 9 in BSD City, offering a comfy and affordable dining spot for employees and visitors. It serves up a variety of tasty dishes, from Indonesian favorites like nasi campur and soto to light snacks and refreshing drinks, all in a clean and practical setting. The go-to eatery for GOP 9 folks is Dapur Kasturi, which also offers convenient pick-up service through WhatsApp.",
+        "isFavorite": false,
+        "address": "Lt. B Gedung GOP 9",
+        "tags": ["Food", "Drink"],
+        "imageName": "greeneatery",
+        "buildingID": 9
+    },
+    {
+        "id": 2202,
+        "name": "Alfamart Express",
+        "desc": "Alfamart Express is an Indonesian convenience store franchise chain under the Alfamart network. It stocks typical Indonesian convenience store items like snacks, soft drinks, fried chicken, bread, and other daily essentials. Recommended picks at Alfamart Express include Bean Spot coffee, ready-to-eat meals, and handy local snacks. They also roll out cool promos like special discounts or budget-friendly combo deals, making shopping there even more wallet-friendly.",
+        "isFavorite": false,
+        "address": "Lt. B1 Gedung GOP 9",
+        "tags": ["Food", "Drink"],
+        "imageName": "alfamart",
+        "buildingID": 9
+    }
+    
+]
+ 
